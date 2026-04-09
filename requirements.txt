@@ -1,1 +1,8 @@
+
 streamlit>=1.35.0
+numpy
+faiss-cpu
+azure-ai-inference
+azure-core
+python-dotenv
+pandas
